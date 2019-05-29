@@ -1,0 +1,23 @@
+{
+	"name": "libo",
+	"age": 20,
+	"companies": [
+		{
+            "level": 1,
+			"name": "钛马",
+			"employee": 200,
+			"ceo": "plum"
+		},
+		{
+            "level": 2,
+			"name": "我去",
+			"employee": 300,
+			"ceo": "mit"
+		}
+	],
+	"phone": {
+		"brand": "apple",
+		"system": "ios",
+		"price": 6000.0
+	}
+}
